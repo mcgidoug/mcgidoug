@@ -1,10 +1,12 @@
+[![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
+
 - 👋 Hi, I’m @mcgidoug
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
+
 
 
 <!---
