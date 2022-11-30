@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-https://www.codewars.com/users/mcgidoug/badges/large
+[![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
+
 
 <!---
 mcgidoug/mcgidoug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
