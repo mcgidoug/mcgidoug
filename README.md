@@ -1,10 +1,10 @@
 [![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
 
-- 👋 Hi, I’m @mcgidoug
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I'm Doug. 
+- 👀 I’m interested in web and app development. 
+- 🌱 I’m currently working mainly in the MERN stack for Fullstack Development. 
+- 💞️ I’m looking to collaborate on anything. 
+- 📫 Reach me via email: mcgidoug@gmail.com 
 
 
 
