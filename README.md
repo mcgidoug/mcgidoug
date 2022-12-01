@@ -1,6 +1,7 @@
+# 👋 Hi, I'm Doug. 
+
 [![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
 
-- 👋 Hi, I'm Doug. 
 - 👀 I’m interested in web and app development. 
 - 🌱 I’m currently working mainly in the MERN stack for Fullstack Development. 
 - 💞️ I’m looking to collaborate on anything. 
