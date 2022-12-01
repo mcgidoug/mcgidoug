@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Doug. 
+## Full-Stack Web Developer
 
 [![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
 
