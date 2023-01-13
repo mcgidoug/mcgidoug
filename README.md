@@ -7,11 +7,11 @@
 
 [![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
 
-- 🔭 I’m currently working on **developing projects focused in the MERN stack.**
+- 🔭 I’m currently working on **developing projects focused in the MERN stack**
 
 - 🌱 I’m currently learning **AWS**
 
-- 👯 I’m looking to collaborate on **anything.**
+- 👯 I’m looking to collaborate on **anything**
 
 - 👨‍💻 All of my projects are available at [https://mcgidoug.github.io/react-portfolio-1/](https://mcgidoug.github.io/react-portfolio-1/)
 
