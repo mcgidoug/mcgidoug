@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcgidoug" alt="mcgidoug" /></a> </p>
 
+[![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
+
 - 🔭 I’m currently working on **developing projects focused in the MERN stack.**
 
 - 🌱 I’m currently learning **AWS**
