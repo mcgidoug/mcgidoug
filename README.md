@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mcgidoug&label=Profile%20views&color=0e75b6&style=flat" alt="mcgidoug" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcgidoug&theme=darkhub" alt="mcgidoug" /></a> </p>
-
 [![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mcgidoug&theme=darkhub" alt="mcgidoug" /></a> </p>
 
 - 🔭 I’m currently working on **developing projects focused in the MERN stack**
 
