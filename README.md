@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 👨‍💻 All of my projects are available at [https://mcgidoug.github.io/react-portfolio-1/](https://mcgidoug.github.io/react-portfolio-1/)
+- 👨‍💻 Some of my projects are available at [https://mcgidoug.github.io/react-portfolio-1/](https://mcgidoug.github.io/react-portfolio-1/)
 
 - 📫 How to reach me **mcgidoug@gmail.com**
 
