@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing projects focused in the MERN stack**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently studying for the **AWS Cloud Practitioner Certification**
 
 - 👯 I’m looking to collaborate on **anything**
 
