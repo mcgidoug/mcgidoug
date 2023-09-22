@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing projects focused in the MERN stack**
 
-- 🌱 I’m currently studying for the **AWS Cloud Practitioner Certification**
+- 🌱 I’m currently studying for **CompTIA A+ & AWS Cloud Practitioner Certification**
 
 - 👨‍💻 View some of my projects available on my **[portfolio](https://dougmcgillivray.com/)**
 
