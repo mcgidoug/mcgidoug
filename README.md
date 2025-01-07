@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **developing JavaScript based projects**
 
-- 🌱 I’m currently studying for **CompTIA A+ & AWS Cloud Practitioner Certification**
+- 🌱 I’m currently studying for **CompTIA A+ Certification**
 
 - 👨‍💻 View some of my projects available on my **[portfolio](https://dougmcgillivray.com/)**
 
