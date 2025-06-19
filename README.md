@@ -5,7 +5,7 @@
 
 [![Profile badge](https://www.codewars.com/users/mcgidoug/badges/large)](https://www.codewars.com/users/mcgidoug)
 
-- 🔭 I’m currently working on **my Ubuntu homelab server**
+- 🔭 I’m currently working on **my Ubuntu server & homelab**
 
 - 🌱 I’m currently studying for **CompTIA A+ Certification**
 
