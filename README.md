@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my Ubuntu server & homelab**
 
-- 🌱 I’m currently studying for **CompTIA A+ Certification**
+- 🌱 I’m currently pursuing **my Master's in Library & Information Science** along with my **CCNA Certification**
 
 - 👨‍💻 View some of my projects available on my **[portfolio](https://dougmcgillivray.com/)**
 
